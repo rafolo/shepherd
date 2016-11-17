@@ -1,7 +1,8 @@
 'use strict';
 
 module.exports.findSheep = (event, context, callback) => {
-    const message = 'Łowieczka jest tutaj !!!';
+
+    const message = 'Plus-minus. Łowieczka jest tutaj !!!';
     const response = {
         statusCode: 200,
         headers: {

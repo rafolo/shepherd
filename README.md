@@ -1,5 +1,12 @@
 # shepherd
 
+### Prerequisites
+
+ - [Node.js 4.3](https://nodejs.org/en/download/)
+ - [Serviceless Framework 1.0](https://serverless.com/)
+ 
+ 
+
 ### Invoke function locally
 
 ```
