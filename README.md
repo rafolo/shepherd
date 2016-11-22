@@ -16,15 +16,15 @@ serverless invoke local -f findSheep
 ### Deploy service to AWS
 
 ```
-serverless deploy 
+serverless deploy -v
 ```
 
 ### Remove service from AWS
 
 ```
-serverless remove
+serverless remove -v
 ```
 
 
 ### Dev url
- [https://b24y2psn88.execute-api.eu-central-1.amazonaws.com/dev/findSheep](https://b24y2psn88.execute-api.eu-central-1.amazonaws.com/dev/findSheep)
+ [https://60gnss1w8l.execute-api.eu-central-1.amazonaws.com/dev/findSheep](https://60gnss1w8l.execute-api.eu-central-1.amazonaws.com/dev/findSheep)
